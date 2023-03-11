@@ -1,0 +1,1 @@
+print("Bu bizim ikinci faylimizdir")
